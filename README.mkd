@@ -1,6 +1,9 @@
 [Missile Game](http://missile-game.bwhmather.com)
 ====================================
 
+To play this plugin, visit [Quadnix Plugins](https://plugins.quadnix.com)
+or [click here](https://plugins.quadnix.com/launch?author=quadnix&id=missile-game).
+
 Full rewrite of the original flash game by Damien Clarke (which you can
 find at [http://albinoblacksheep.com/games/missilegame3d](http://albinoblacksheep.com/games/missilegame3d)) using SVG and
 javascript.  The aim is to fly a missile past a sequence of rotating barriers and avoid
